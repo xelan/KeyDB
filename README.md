@@ -135,7 +135,7 @@ To append a suffix to KeyDB program names, use:
 ***Note that the following dependencies may be needed: 
     % sudo apt-get install autoconf autotools-dev libnuma-dev libtool
 
-To buik=ld with TLS support, use:
+To build with TLS support, use:
 
     % make BUILD_TLS=yes
 
